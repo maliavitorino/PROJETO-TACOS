@@ -6,6 +6,5 @@ O projeto consiste em uma página web de uma pequena Lojinha de Tacos:
 
 Estrutura básica de HTML
 Alguns elementos fundamentais de HTML
-Um pouco (quase nada) de CSS apenas para demonstração
-Objetivo Este repositório foi criado apenas como exercício de estudo para quem está dando os primeiros passos no desenvolvimento web. 
+Um pouco (quase nada) de CSS apenas para demonstração. Este repositório foi criado apenas como exercício de estudo para quem está dando os primeiros passos no desenvolvimento web. 
 Não é um projeto completo ou profissional, mas sim um ponto de partida para entender os conceitos mais básicos de HTML.
